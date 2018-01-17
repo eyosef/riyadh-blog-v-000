@@ -5,10 +5,10 @@ html, body {
   min-height: 100%;
 }
 
-.kingdom-center{
+/*.kingdom-center{
   position: sticky;
   left: 50px;
-}
+}*/
 
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
