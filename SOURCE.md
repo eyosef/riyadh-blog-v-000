@@ -4,7 +4,7 @@ HEADING
 
 SUB HEAD
 
-`Where A Traditional Past Meets A Modern Future.`
+<h4>Where A Traditional Past Meets A Modern Future.</h4>
 
 IMAGE 1 FILE
 
