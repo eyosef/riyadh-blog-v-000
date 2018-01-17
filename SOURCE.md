@@ -12,7 +12,7 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+<h4>Modern Transit</h4>
 
 SMALLER SUB HEAD
 
