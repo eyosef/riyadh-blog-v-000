@@ -34,7 +34,8 @@ body {
 }
 
 #content1{
-  font-family: Helvetica, Arial, sans-serif
+    font-size: 1em;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h1, h2 {
